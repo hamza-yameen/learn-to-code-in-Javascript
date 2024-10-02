@@ -14,7 +14,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # Ignore .env file which may contain sensitive information
-.env
 
 # Ignore any generated files or directories
 dist/
@@ -23,3 +22,4 @@ build/
 # Ignore any dependencies or modules downloaded by npm or yarn
 package-lock.json
 yarn.lock
+config.bat
